@@ -1,5 +1,4 @@
 # Final-year-Project
-PLease Ignore file Image Search- FIN 2
 One last thing due to one of the folder in my project beign big, i decided to upload that folder in a google drive link. I will the droping the link here
 https://drive.google.com/drive/folders/1HqguF2UMPqQAbnb3lr989E5xJAHBBF9y?usp=drive_link
 This is the folder
